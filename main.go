@@ -31,7 +31,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 	html := `<html><h1>This is my rad page!</h1>
 	<div>
 	<form action="">
-	<button type="button>display gif</button>
+	<button type="button">display gif</button>
 	</form>
 	</div>
 	</html>
